@@ -3,7 +3,7 @@
  * @version 1.1.0
  * @description A BetterDiscord plugin that forces only the user running the script to show the mobile icon, while others display their normal status.
  * @author SEI2187
- * @source https://github.com/YourRepo/AlwaysMobileIcon
+ * @source https://github.com/SEI2187/AlwaysMobileIcon
  */
 
 module.exports = class AlwaysMobileIcon {
